@@ -9,8 +9,8 @@
 | 内容 | 状态 | 入口 |
 |---|---|---|
 | 项目案例说明 | 已上线 | [阅读 / 下载 Case Study PDF](https://raw.githubusercontent.com/xmzb66/FirstGame1-Portfolio/main/01_FirstGame1_CaseStudy.pdf) |
-| 项目演示视频 | 待上传 | 当前仓库尚无 Demo Video |
-| Windows 可玩 Demo | 待发布 | 当前仓库尚无 GitHub Release 下载包 |
+| 项目演示视频 | 已上线 | [观看 / 下载 Demo Video](https://github.com/xmzb66/FirstGame1-Portfolio/releases/download/v1.0.0/02_FirstGame1_DemoVideo.mp4) |
+| Windows 可玩 Demo | 已发布 | [下载 Windows Demo](https://github.com/xmzb66/FirstGame1-Portfolio/releases/download/v1.0.0/03_FirstGame1_WindowsDemo.zip) |
 
 建议招聘方先阅读 Case Study，了解项目目标、AI 协作流程、系统迭代与最终复盘。
 
